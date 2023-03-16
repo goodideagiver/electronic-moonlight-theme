@@ -6,7 +6,7 @@
     "name": "Purple Black"
   },
   "publisher": "purpleblack",
-  "version": "0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.58.0"
   },
