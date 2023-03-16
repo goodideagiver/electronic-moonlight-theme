@@ -1,5 +1,5 @@
 {
-	"name": "Electronic Moonlight Theme",
+	"name": "Electronic Moonlight Theme + borders",
 	"type": "dark",
 	"colors": {
 		"activityBar.background": "#1e2030",
@@ -201,6 +201,11 @@
 		"titleBar.inactiveForeground": "#828bb8",
 		"tree.indentGuidesStroke": "#828bb866",
 		"widget.shadow": "#00000033",
+		"widget.border": "#FFFFFF20",
+    		"widget.shadow": "#00000020",
+    		"menu.border": "#FFFFFF20",
+    		"list.hoverBackground": "#ffffff10",
+    		"pickerGroup.border": "#FFFFFF60",
 		//"activityBar.activeBorder": "#b4c2f0",
 		//"activityBar.dropBorder": "#b4c2f0",
 		//"activityBar.inactiveForeground": "#b4c2f066",
