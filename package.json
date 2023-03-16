@@ -1,45 +1,45 @@
 {
-    "name": "electronic-moonlight-theme-borders",
-    "displayName": "Electronic Moonlight Theme with borders",
-    "description": "Electronic Moonlight theme enhanced with borders!",
-    "author": {
-        "name": "Isaac Arnold"
-    },
-    "publisher": "goodideagiver",
-    "version": "0.1",
-    "engines": {
-        "vscode": "^1.58.0"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/goodideagiver/electronic-moonlight-theme"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Electronic Moonlight",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Electronic Moonlight Theme-color-theme.json"
-            }
-        ]
-    },
-    "galleryBanner": {
-        "color": "#1d1f31",
-        "theme": "dark"
-    },
-    "icon": "images/icon.png",
-    "keywords": [
-        "Electron",
-        "Moonlight theme",
-        "Dark theme",
-        "purple",
-        "blue",
-        "isaac.codes theme",
-        "best dark theme",
-        "trending dark theme",
-        "borders"
+  "name": "electronic-moonlight-theme-borders",
+  "displayName": "Electronic Moonlight Theme with borders",
+  "description": "Electronic Moonlight theme enhanced with borders!",
+  "author": {
+    "name": "Purple Black"
+  },
+  "publisher": "purpleblack",
+  "version": "0.1",
+  "engines": {
+    "vscode": "^1.58.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goodideagiver/electronic-moonlight-theme"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Electronic Moonlight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Electronic Moonlight Theme-color-theme.json"
+      }
     ]
+  },
+  "galleryBanner": {
+    "color": "#1d1f31",
+    "theme": "dark"
+  },
+  "icon": "images/icon.png",
+  "keywords": [
+    "Electron",
+    "Moonlight theme",
+    "Dark theme",
+    "purple",
+    "blue",
+    "isaac.codes theme",
+    "best dark theme",
+    "trending dark theme",
+    "borders"
+  ]
 }
