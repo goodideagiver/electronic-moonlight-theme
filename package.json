@@ -1,18 +1,18 @@
 {
-    "name": "electronic-moonlight-theme",
-    "displayName": "Electronic Moonlight Theme",
-    "description": "A beautifully muted dark theme with subtle vibrance based off Electron and Moonlight II Italic",
+    "name": "electronic-moonlight-theme-borders",
+    "displayName": "Electronic Moonlight Theme with borders",
+    "description": "Electronic Moonlight theme enhanced with borders!",
     "author": {
         "name": "Isaac Arnold"
     },
-    "publisher": "isaaccodes",
-    "version": "0.1.5",
+    "publisher": "goodideagiver",
+    "version": "0.1",
     "engines": {
         "vscode": "^1.58.0"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/IsaacArnold/electronic-moonlight-theme"
+        "url": "https://github.com/goodideagiver/electronic-moonlight-theme"
     },
     "categories": [
         "Themes"
@@ -39,6 +39,7 @@
         "blue",
         "isaac.codes theme",
         "best dark theme",
-        "trending dark theme"
+        "trending dark theme",
+        "borders"
     ]
 }
