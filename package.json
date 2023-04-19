@@ -6,7 +6,7 @@
     "name": "Purple Black"
   },
   "publisher": "purpleblack",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "engines": {
     "vscode": "^1.58.0"
   },
@@ -20,7 +20,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Electronic Moonlight",
+        "label": "Electronic Moonlight with borders",
         "uiTheme": "vs-dark",
         "path": "./themes/Electronic Moonlight Theme-color-theme.json"
       }
@@ -37,9 +37,7 @@
     "Dark theme",
     "purple",
     "blue",
-    "isaac.codes theme",
     "best dark theme",
-    "trending dark theme",
     "borders"
   ]
 }
