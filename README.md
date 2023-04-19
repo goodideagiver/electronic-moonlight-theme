@@ -2,6 +2,12 @@
 
 A beautifully muted dark theme with subtle vibrance based off [Electron Color Theme](https://marketplace.visualstudio.com/items?itemName=kuscamara.electron) and [Moonlight II Italics](https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight).
 
+## Borders!
+
+![image](https://user-images.githubusercontent.com/55458485/232996625-2f4121cc-5407-4171-9c24-5ac370b5e205.png)
+
+
+
 ## Screenshots
 
 ![Desktop screenshot](images/Desktop-screenshot.png)
