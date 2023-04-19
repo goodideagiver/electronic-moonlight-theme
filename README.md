@@ -1,4 +1,4 @@
-# Electronic Moonlight Theme
+# Electronic Moonlight Theme with borders
 
 A beautifully muted dark theme with subtle vibrance based off [Electron Color Theme](https://marketplace.visualstudio.com/items?itemName=kuscamara.electron) and [Moonlight II Italics](https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight).
 
