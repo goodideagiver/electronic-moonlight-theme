@@ -2,6 +2,7 @@
   "name": "Electronic Moonlight Theme + borders",
   "type": "dark",
   "colors": {
+    "tab.activeBorderTop": "#A66FFF",
     "activityBar.background": "#1e2030",
     "activityBar.border": "#22243660",
     "activityBar.foreground": "#b4c2f0",
@@ -517,7 +518,6 @@
     "statusBar.noFolderBackground": "#222436",
     "statusBarItem.hoverBackground": "#828bb820",
     "tab.activeBackground": "#222436",
-    "tab.activeBorder": "#f44747",
     "tab.activeForeground": "#c8d3f5",
     "tab.activeModifiedBorder": "#828bb8",
     "tab.border": "#191a2a",

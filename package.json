@@ -6,7 +6,7 @@
     "name": "Purple Black"
   },
   "publisher": "purpleblack",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "engines": {
     "vscode": "^1.58.0"
   },
@@ -27,7 +27,7 @@
       {
         "label": "Electronic Moonlight more borders!",
         "uiTheme": "vs-dark",
-        "path": "./themes/more-borders.json"
+        "path": "./themes/more-borders-color-theme.json"
       }
     ]
   },
