@@ -4,7 +4,6 @@ A beautifully muted dark theme with subtle vibrance based off [Electron Color Th
 
 ## Screenshots
 
-![image](https://user-images.githubusercontent.com/55458485/235201043-25c8033e-8f27-468c-8241-bb480f0a2267.png)
 ![image](https://user-images.githubusercontent.com/55458485/235200591-0b6465b8-333f-4839-a2e2-daafb38d9b8d.png)
 ![image](https://user-images.githubusercontent.com/55458485/235200458-a780ac8f-0bd5-457b-9567-ecf15c973e90.png)
 ![image](https://user-images.githubusercontent.com/55458485/235200512-1bbe1fd7-7ce4-447e-8525-5bdc2ed5ff9b.png)
