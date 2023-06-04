@@ -20,7 +20,7 @@ A beautifully muted dark theme with subtle vibrance based off [Electron Color Th
 
 Here are a few settings I use:
 
-```
+```json
 "editor.fontFamily": "'Dank Mono', 'Fira Code', 'Victor Mono', Menlo, Monaco, 'Courier New', monospace",
 "editor.fontSize": 15,
 "editor.fontLigatures": true,

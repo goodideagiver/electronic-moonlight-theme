@@ -4,6 +4,10 @@ All notable changes to the "electronic-moonlight-theme" extension will be docume
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.2.4]
+
+- Add contrast version inspired by new vscode dark theme
+
 ## [0.2.2]
 
 - Added version with more visible borders
