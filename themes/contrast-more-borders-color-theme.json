@@ -6,6 +6,8 @@
     "editorGroupHeader.border": "#00000000",
     "editorGroupHeader.tabsBorder": "#FFFFFF12",
     "tab.activeBorder": "#1d1f31",
+    "tab.unfocusedActiveBorderTop": "#80808074",
+    "tab.unfocusedActiveBorder": "#1d1f31",
     "breadcrumbPicker.background": "#191a2a",
     "panel.background": "#191a2a", //terminal bg
     "titleBar.inactiveBackground": "#1e2030",
@@ -179,7 +181,6 @@
     "tab.activeForeground": "#c8d3f5",
     "tab.activeModifiedBorder": "#828bb8",
     "tab.inactiveForeground": "#828bb8",
-    "tab.unfocusedActiveBorder": "#828bb8",
     "tab.unfocusedActiveForeground": "#c8d3f5",
     "terminal.ansiBlack": "#000000",
     "terminal.ansiBlue": "#82aaff",
