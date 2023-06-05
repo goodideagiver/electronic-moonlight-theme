@@ -2,29 +2,32 @@
   "name": "Electronic Moonlight Theme + borders",
   "type": "dark",
   "colors": {
-    "editorWidget.background": "#1e2030", //search widget bg
-    "editorGroupHeader.border": "#00000000",
-    "editorGroupHeader.tabsBorder": "#FFFFFF12",
+    //editor container
+    "breadcrumb.background": "#1d1f31",
     "tab.activeBorder": "#1d1f31",
-    "tab.unfocusedActiveBorderTop": "#80808074",
     "tab.unfocusedActiveBorder": "#1d1f31",
-    "breadcrumbPicker.background": "#191a2a",
-    "panel.background": "#191a2a", //terminal bg
-    "titleBar.inactiveBackground": "#1e2030",
-    "debugToolBar.background": "#1e2030",
-    "sideBar.background": "#191a2a",
+    "editor.background": "#1d1f31",
+    //editor contrasting panels
     "sideBarSectionHeader.background": "#191a2a",
     "titleBar.activeBackground": "#191a2a",
     "activityBar.background": "#191a2a",
     "statusBar.background": "#191a2a",
     "editorGroupHeader.tabsBackground": "#191a2a",
-    "breadcrumb.background": "#1d1f31",
     "tab.inactiveBackground": "#191a2a",
-    "editor.background": "#1d1f31",
-    "menu.background": "#1e2030", //context menu bg
-    "tab.activeBorderTop": "#A66FFF",
     "editorSuggestWidget.background": "#191a2a",
     "notifications.background": "#191a2a",
+    "panel.background": "#191a2a", //terminal bg
+    "sideBar.background": "#191a2a",
+    //overlays
+    "editorWidget.background": "#1e2030", //search widget bg
+    "titleBar.inactiveBackground": "#1e2030",
+    "debugToolBar.background": "#1e2030",
+    "menu.background": "#1e2030", //context menu bg
+    "editorGroupHeader.border": "#00000000",
+    "editorGroupHeader.tabsBorder": "#FFFFFF12",
+    "tab.unfocusedActiveBorderTop": "#80808074",
+    "breadcrumbPicker.background": "#191a2a",
+    "tab.activeBorderTop": "#A66FFF",
     "settings.numberInputBackground": "#191a2a",
     "settings.textInputBackground": "#191a2a",
     "input.background": "#1d1f31",
