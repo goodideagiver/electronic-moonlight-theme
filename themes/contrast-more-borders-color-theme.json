@@ -14,15 +14,17 @@
     "statusBar.background": "#191a2a",
     "editorGroupHeader.tabsBackground": "#191a2a",
     "tab.inactiveBackground": "#191a2a",
-    "editorSuggestWidget.background": "#191a2a",
+    "editorSuggestWidget.background": "#1e2030",
     "notifications.background": "#191a2a",
     "panel.background": "#191a2a", //terminal bg
     "sideBar.background": "#191a2a",
     //overlays
-    "editorWidget.background": "#1e2030", //search widget bg
+    "editorWidget.background": "#1d1f31", //search widget bg
     "titleBar.inactiveBackground": "#1e2030",
     "debugToolBar.background": "#1e2030",
     "menu.background": "#1e2030", //context menu bg
+    "editorHoverWidget.background": "#1e2030", //tooltip bg
+    "editorHoverWidget.border": "#FFFFFF42",
     "editorGroupHeader.border": "#00000000",
     "editorGroupHeader.tabsBorder": "#FFFFFF12",
     "tab.unfocusedActiveBorderTop": "#80808074",
@@ -32,7 +34,7 @@
     "settings.textInputBackground": "#191a2a",
     "input.background": "#1d1f31",
     "panel.border": "#FFFFFF12",
-    "editorSuggestWidget.border": "#FFFFFF12",
+    "editorSuggestWidget.border": "#FFFFFF42",
     "activityBar.border": "#FFFFFF12",
     "editorOverviewRuler.border": "#FFFFFF12",
     "sideBarSectionHeader.border": "#FFFFFF12",
@@ -48,7 +50,6 @@
     "dropdown.border": "#00000066",
     "editor.findMatchBorder": "#86e1fc",
     "editorBracketMatch.border": "#82aaffbb",
-    "editorHoverWidget.border": "#FFFFFF60",
     "editorWidget.resizeBorder": "#ffffff22",
     "focusBorder": "#82aaff",
     "activityBar.foreground": "#b4c2f0",
@@ -78,7 +79,6 @@
     "editorGutter.addedBackground": "#c3e88d66",
     "editorGutter.deletedBackground": "#ff5370aa",
     "editorGutter.modifiedBackground": "#82aaff66",
-    "editorHoverWidget.background": "#1b1d2c",
     "editorIndentGuide.activeBackground": "#828bb8aa",
     "editorIndentGuide.background": "#444a73bb",
     "editorLineNumber.activeForeground": "#828bb8",
