@@ -1029,6 +1029,13 @@
       "settings": {
         "foreground": "#506686"
       }
+    },
+    {
+      "scope": ["meta.function.definition.rust", "keyword.other.fn.rust"],
+      "settings": {
+        "foreground": "#E26674",
+        "fontStyle": "italic"
+      }
     }
   ]
 }

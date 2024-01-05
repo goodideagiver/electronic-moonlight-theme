@@ -477,6 +477,7 @@
         "foreground": "#C8D3F5"
       }
     },
+
     {
       "scope": [
         "source.haskell storage.type",
@@ -1035,6 +1036,13 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "foreground": "#506686"
+      }
+    },
+    {
+      "scope": ["meta.function.definition.rust", "keyword.other.fn.rust"],
+      "settings": {
+        "foreground": "#E26674",
+        "fontStyle": "italic"
       }
     }
   ]
